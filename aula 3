@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lista de compras</h1>
+    <ul>
+        <li>pão de queijo</li>
+        <li>macarrão</li>
+        <li>morango</li>
+        <li>café solúvel</li>
+    </ul>
+
+    <h2>Grupos da copa do mundo</h2>
+    <br>
+    <h3>
+        Grupo A
+    </h3>
+    <ol>
+        <li>Qatar</li>
+        <li>Equador</li>
+        <li>Senegal</li>
+        <li>Holanda</li>
+    </ol>
+    <h3>
+        Grupo B
+    </h3>
+    <ol>
+        <li>Inglaterra</li>
+        <li>Irã</li>
+        <li>EUA</li>
+        <li>País de Gales</li>
+    </ol>
+</body>
+</html>
